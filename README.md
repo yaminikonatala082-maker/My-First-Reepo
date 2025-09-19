@@ -1,2 +1,2 @@
-# My-First-Reepo
+# My-First-Repo
 learning DEVOPS with GitHub
